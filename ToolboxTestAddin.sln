@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolboxTestAddin", "ToolboxTestAddin\ToolboxTestAddin.csproj", "{878B3D7D-7DED-4033-942E-7631721F27D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{878B3D7D-7DED-4033-942E-7631721F27D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{878B3D7D-7DED-4033-942E-7631721F27D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{878B3D7D-7DED-4033-942E-7631721F27D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{878B3D7D-7DED-4033-942E-7631721F27D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
